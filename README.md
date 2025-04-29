@@ -15,6 +15,8 @@ Systems Programming (C, C++)
 
 Tkinter Calculator: A multi-functional calculator built with Python and Tkinter, featuring an investment calculator and Matplotlib visualizations.
 
+Paint App (Java Swing): A fully interactive drawing application with features like pen, shapes, and eraser tools, built using Java Swing and custom event handling.
+
 Real Estate Website: Designed and developed a responsive website for a real estate development company using React and TailwindCSS.
 
 🚀 Goals for 2025:
