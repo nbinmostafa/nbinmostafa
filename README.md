@@ -5,7 +5,7 @@ I'm a passionate developer currently pursuing Computer Science, with a strong in
 
 🌱 Currently Learning:
 
-Machine Learning & AI (Python, TensorFlow)
+Machine Learning & AI (Pytorch, TensorFlow)
 
 Web Development (React, TailwindCSS)
 
