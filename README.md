@@ -1,4 +1,4 @@
-👋 Hi, I'm Nafi Bin Mostafa!
+👋 Hi, I'm Nafi!
 Welcome to my GitHub!
 
 I'm a passionate developer currently pursuing Computer Science, with a strong interest in building real-world applications, exploring AI/ML, and creating user-focused experiences.
